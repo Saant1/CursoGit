@@ -1,2 +1,2 @@
 # CursoGit
-Curso de Git e Github LearnigLab 
+Curso de Git e Github LearningLab 
